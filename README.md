@@ -73,99 +73,99 @@ The following benchmark table tracks leading commercial Text-to-CAD, generative 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source repositories powering autonomous CAD agents, parametric scripting libraries, WASM geometry engines, and academic foundation models. **Sorted in descending order by GitHub Star Count.**
+Explore the leading open-source repositories powering autonomous CAD agents, parametric scripting libraries, WASM geometry engines, and academic foundation models. **Sorted in descending order by GitHub Stars_Count.**
 
-### 1. 🌟 [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
+### 1. 🌟 [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
 * **Description**: The premier open-source multi-platform parametric 3D CAD modeler. Powered by Open CASCADE Technology (OCCT), FreeCAD features an extensive Python API that enables autonomous agents to programmatically build sketch constraints, part bodies, assemblies, and generate production drawings.
 * **Tech Stack**: C++, Python, Open CASCADE (OCCT), Qt
 * **License**: LGPL-2.1
 
-### 2. 🎨 [Blender](https://github.com/blender/blender) [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
+### 2. 🎨 [Blender](https://github.com/blender/blender) [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
 * **Description**: The world's leading open-source 3D creation suite. Features an exhaustive Python scripting environment (`bpy`) utilized across dozens of AI-assisted modeling pipelines, geometry nodes automation, procedural modeling, and mesh synthesis plugins.
 * **Tech Stack**: C, C++, Python, OpenGL/Vulkan
 * **License**: GPL-2.0 / GPL-3.0
 
-### 3. ⚡ [text-to-cad (earthtojake)](https://github.com/earthtojake/text-to-cad) [![GitHub stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social&color=white)](https://github.com/earthtojake/text-to-cad/stargazers)
+### 3. ⚡ [text-to-cad (earthtojake)](https://github.com/earthtojake/text-to-cad) [![GitHub_Stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=social&color=white)](https://github.com/earthtojake/text-to-cad/stargazers)
 * **Description**: "Give your agent CAD superpowers." A high-traction open-source harness and autonomous agent toolkit that converts natural language prompts into executable CAD commands, parametric geometry, and 3D visual assets.
 * **Tech Stack**: TypeScript, Python, LLM Agent Tooling
 * **License**: MIT
 
-### 4. 📐 [OpenSCAD](https://github.com/openscad/openscad) [![GitHub stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)
+### 4. 📐 [OpenSCAD](https://github.com/openscad/openscad) [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)
 * **Description**: The definitive programmer's solid 3D CAD modeler. Uses a purely declarative, text-based constructive solid geometry (CSG) language, making it exceptionally well-suited as a code-generation target for LLMs and automated CAD pipelines.
 * **Tech Stack**: C++, CSG, CGAL, OpenCSG
 * **License**: GPL-2.0
 
-### 5. 🐍 [CadQuery](https://github.com/CadQuery/cadquery) [![GitHub stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=social&color=white)](https://github.com/CadQuery/cadquery/stargazers)
+### 5. 🐍 [CadQuery](https://github.com/CadQuery/cadquery) [![GitHub_Stars](https://img.shields.io/github/stars/CadQuery/cadquery?style=social&color=white)](https://github.com/CadQuery/cadquery/stargazers)
 * **Description**: A Python parametric CAD scripting framework based on Open CASCADE. Enables programmatic construction of complex B-Rep solids, workplanes, sketches, and STEP exports using fluent, Pythonic syntax ideal for LLM code synthesis.
 * **Tech Stack**: Python, OCCT, pybind11
 * **License**: Apache-2.0
 
-### 6. 🌐 [CADAM](https://github.com/Adam-CAD/CADAM) [![GitHub stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=social&color=white)](https://github.com/Adam-CAD/CADAM/stargazers)
+### 6. 🌐 [CADAM](https://github.com/Adam-CAD/CADAM) [![GitHub_Stars](https://img.shields.io/github/stars/Adam-CAD/CADAM?style=social&color=white)](https://github.com/Adam-CAD/CADAM/stargazers)
 * **Description**: The open-source browser-based Text-to-CAD web application. Connects state-of-the-art vision and language models with interactive WebGL rendering to democratize natural language hardware design.
 * **Tech Stack**: TypeScript, React, Python, WebGL
 * **License**: MIT
 
-### 7. 🏗️ [build123d](https://github.com/gumyr/build123d) [![GitHub stars](https://img.shields.io/github/stars/gumyr/build123d?style=social&color=white)](https://github.com/gumyr/build123d/stargazers)
+### 7. 🏗️ [build123d](https://github.com/gumyr/build123d) [![GitHub_Stars](https://img.shields.io/github/stars/gumyr/build123d?style=social&color=white)](https://github.com/gumyr/build123d/stargazers)
 * **Description**: A modern Python CAD programming library built on Open CASCADE Technology. Designed as the next evolution of programmatic CAD with explicit 1D, 2D, and 3D context managers, direct parameter algebra, and deterministic topology traversal.
 * **Tech Stack**: Python, Open CASCADE
 * **License**: Apache-2.0
 
-### 8. 🤖 [Multi-Agent-CAD (MAC)](https://github.com/Pan-Chera/Multi-Agent-CAD) [![GitHub stars](https://img.shields.io/github/stars/Pan-Chera/Multi-Agent-CAD?style=social&color=white)](https://github.com/Pan-Chera/Multi-Agent-CAD/stargazers)
+### 8. 🤖 [Multi-Agent-CAD (MAC)](https://github.com/Pan-Chera/Multi-Agent-CAD) [![GitHub_Stars](https://img.shields.io/github/stars/Pan-Chera/Multi-Agent-CAD?style=social&color=white)](https://github.com/Pan-Chera/Multi-Agent-CAD/stargazers)
 * **Description**: A decoupled multi-agent collaborative framework for text-to-CAD generation via constrained test-time compute. Coordinates specialized LLM agents (planner, coder, geometry validator, visual verifier) to iteratively generate and repair parametric models.
 * **Tech Stack**: Python, PyTorch, Multi-Agent LLMs
 * **License**: MIT
 
-### 9. 🚀 [OpenCascade.js](https://github.com/donalffons/opencascade.js) [![GitHub stars](https://img.shields.io/github/stars/donalffons/opencascade.js?style=social&color=white)](https://github.com/donalffons/opencascade.js/stargazers)
+### 9. 🚀 [OpenCascade.js](https://github.com/donalffons/opencascade.js) [![GitHub_Stars](https://img.shields.io/github/stars/donalffons/opencascade.js?style=social&color=white)](https://github.com/donalffons/opencascade.js/stargazers)
 * **Description**: WebAssembly (WASM) port of the Open CASCADE B-Rep geometric kernel. Serves as the computational backbone for browser-based CAD platforms, client-side STEP parsing, and zero-install client-side text-to-CAD generators.
 * **Tech Stack**: C++, WebAssembly, Emscripten, JavaScript
 * **License**: LGPL-2.1
 
-### 10. 🔬 [DeepCAD](https://github.com/rundiwu/DeepCAD) [![GitHub stars](https://img.shields.io/github/stars/rundiwu/DeepCAD?style=social&color=white)](https://github.com/rundiwu/DeepCAD/stargazers)
+### 10. 🔬 [DeepCAD](https://github.com/rundiwu/DeepCAD) [![GitHub_Stars](https://img.shields.io/github/stars/rundiwu/DeepCAD?style=social&color=white)](https://github.com/rundiwu/DeepCAD/stargazers)
 * **Description**: Seminal research paper & deep generative neural network for Computer-Aided Design models (ICCV). Formulates CAD models as sequences of sketch-and-extrude curve commands, pioneering autoregressive sequence generation for engineering solids.
 * **Tech Stack**: Python, PyTorch, CUDA
 * **License**: MIT
 
-### 11. 🎓 [Text2CAD (SadilKhan)](https://github.com/SadilKhan/Text2CAD) [![GitHub stars](https://img.shields.io/github/stars/SadilKhan/Text2CAD?style=social&color=white)](https://github.com/SadilKhan/Text2CAD/stargazers)
+### 11. 🎓 [Text2CAD (SadilKhan)](https://github.com/SadilKhan/Text2CAD) [![GitHub_Stars](https://img.shields.io/github/stars/SadilKhan/Text2CAD?style=social&color=white)](https://github.com/SadilKhan/Text2CAD/stargazers)
 * **Description**: [NeurIPS Spotlight] A sequence-to-sequence model generating sequential CAD designs from beginner-to-expert level text prompts. Trained on massive paired datasets mapping natural language prompts to formal parametric command sequences.
 * **Tech Stack**: Python, PyTorch, Hugging Face Transformers
 * **License**: MIT
 
-### 12. 🖥️ [Zoo Text-to-CAD UI](https://github.com/KittyCAD/text-to-cad-ui) [![GitHub stars](https://img.shields.io/github/stars/KittyCAD/text-to-cad-ui?style=social&color=white)](https://github.com/KittyCAD/text-to-cad-ui/stargazers)
+### 12. 🖥️ [Zoo Text-to-CAD UI](https://github.com/KittyCAD/text-to-cad-ui) [![GitHub_Stars](https://img.shields.io/github/stars/KittyCAD/text-to-cad-ui?style=social&color=white)](https://github.com/KittyCAD/text-to-cad-ui/stargazers)
 * **Description**: Lightweight front-end user interface and reference implementation for interacting with the Zoo (formerly KittyCAD) Text-to-CAD API and inspecting generated KCL code.
 * **Tech Stack**: TypeScript, Next.js, Zoo ML Client
 * **License**: MIT
 
-### 13. 🔄 [CodeToCAD](https://github.com/CodeToCAD/CodeToCAD) [![GitHub stars](https://img.shields.io/github/stars/CodeToCAD/CodeToCAD?style=social&color=white)](https://github.com/CodeToCAD/CodeToCAD/stargazers)
+### 13. 🔄 [CodeToCAD](https://github.com/CodeToCAD/CodeToCAD) [![GitHub_Stars](https://img.shields.io/github/stars/CodeToCAD/CodeToCAD?style=social&color=white)](https://github.com/CodeToCAD/CodeToCAD/stargazers)
 * **Description**: Universal code-based modeling automation abstraction layer. Bridges Python code directly into Blender and Onshape, preventing vendor lock-in and allowing LLM coding agents to target multiple CAD packages through a unified API.
 * **Tech Stack**: Python, Blender API, Onshape REST API
 * **License**: Apache-2.0
 
-### 14. 🧠 [CADFusion](https://github.com/microsoft/CADFusion) [![GitHub stars](https://img.shields.io/github/stars/microsoft/CADFusion?style=social&color=white)](https://github.com/microsoft/CADFusion/stargazers)
+### 14. 🧠 [CADFusion](https://github.com/microsoft/CADFusion) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/CADFusion?style=social&color=white)](https://github.com/microsoft/CADFusion/stargazers)
 * **Description**: Microsoft Research's open-source text-to-CAD model. Fine-tuned from LLaMA-3-8B using sequential learning on paired text-CAD descriptions followed by visual-feedback reinforcement learning from a vision-language model.
 * **Tech Stack**: Python, PyTorch, LLaMA-3
 * **License**: MIT
 
-### 15. 🧮 [CAD/CAE Copilot](https://github.com/armpro24-blip/cad-cae-copilot) [![GitHub stars](https://img.shields.io/github/stars/armpro24-blip/cad-cae-copilot?style=social&color=white)](https://github.com/armpro24-blip/cad-cae-copilot/stargazers)
+### 15. 🧮 [CAD/CAE Copilot](https://github.com/armpro24-blip/cad-cae-copilot) [![GitHub_Stars](https://img.shields.io/github/stars/armpro24-blip/cad-cae-copilot?style=social&color=white)](https://github.com/armpro24-blip/cad-cae-copilot/stargazers)
 * **Description**: AI-native CAD/CAE/CAX workbench for autonomous agents. Combines text-to-CAD, text-to-CAE simulation, real build123d/Open CASCADE geometry, stable topology pointers, and Model Context Protocol (MCP) server tools.
 * **Tech Stack**: Python, build123d, Open CASCADE, MCP
 * **License**: MIT
 
-### 16. 🦀 [kittycad.rs](https://github.com/KittyCAD/kittycad.rs) [![GitHub stars](https://img.shields.io/github/stars/KittyCAD/kittycad.rs?style=social&color=white)](https://github.com/KittyCAD/kittycad.rs/stargazers)
+### 16. 🦀 [kittycad.rs](https://github.com/KittyCAD/kittycad.rs) [![GitHub_Stars](https://img.shields.io/github/stars/KittyCAD/kittycad.rs?style=social&color=white)](https://github.com/KittyCAD/kittycad.rs/stargazers)
 * **Description**: Official Rust SDK client library for the Zoo / KittyCAD geometry engine, ML endpoints, and headless CAD cluster.
 * **Tech Stack**: Rust, Tokio, Async HTTP
 * **License**: MIT
 
-### 17. 🔌 [onpy](https://github.com/kyle-tennison/onpy) [![GitHub stars](https://img.shields.io/github/stars/kyle-tennison/onpy?style=social&color=white)](https://github.com/kyle-tennison/onpy/stargazers)
+### 17. 🔌 [onpy](https://github.com/kyle-tennison/onpy) [![GitHub_Stars](https://img.shields.io/github/stars/kyle-tennison/onpy?style=social&color=white)](https://github.com/kyle-tennison/onpy/stargazers)
 * **Description**: Python API client for programmatically constructing and parameterizing Onshape models. Enables automated feature generation from external LLM scripts.
 * **Tech Stack**: Python, Onshape REST API
 * **License**: MIT
 
-### 18. 🚲 [cycleCAD](https://github.com/xupeiwust/cyclecad) [![GitHub stars](https://img.shields.io/github/stars/xupeiwust/cyclecad?style=social&color=white)](https://github.com/xupeiwust/cyclecad/stargazers)
+### 18. 🚲 [cycleCAD](https://github.com/xupeiwust/cyclecad) [![GitHub_Stars](https://img.shields.io/github/stars/xupeiwust/cyclecad?style=social&color=white)](https://github.com/xupeiwust/cyclecad/stargazers)
 * **Description**: Browser-based parametric 3D CAD modeler featuring an OpenCascade.js WASM B-Rep kernel, text-to-CAD prompting, photo-to-CAD edge reconstruction, DFM manufacturing validation, and MCP agent server endpoints.
 * **Tech Stack**: TypeScript, OpenCascade.js, WebAssembly, WebGL
 * **License**: MIT
 
-### 19. 🎯 [text-to-cad (Bhooorya)](https://github.com/Bhooorya/text-to-cad) [![GitHub stars](https://img.shields.io/github/stars/Bhooorya/text-to-cad?style=social&color=white)](https://github.com/Bhooorya/text-to-cad/stargazers)
+### 19. 🎯 [text-to-cad (Bhooorya)](https://github.com/Bhooorya/text-to-cad) [![GitHub_Stars](https://img.shields.io/github/stars/Bhooorya/text-to-cad?style=social&color=white)](https://github.com/Bhooorya/text-to-cad/stargazers)
 * **Description**: Converts plain English descriptions into fully editable parametric Autodesk Fusion 360 models. Uses validated JSON feature plans across 28 typed CAD endpoints, executed through a Fusion 360 add-in and MCP server.
 * **Tech Stack**: Python 3.10+, Fusion 360 API, MCP Server
 * **License**: MIT
@@ -208,7 +208,7 @@ Contributions from engineers, researchers, and developers are warmly welcomed!
 
 1. 🍴 **Fork the Repository**: Click the Fork button at the top right of this page.
 2. 🌿 **Create a Feature Branch**: `git checkout -b feat/add-awesome-cad-tool`.
-3. 📝 **Add Your Entry**: Keep entries factual, include official URLs, star badges, licensing, and exact pricing/free tier parameters.
+3. 📝 **Add Your Entry**: Keep entries factual, include official URLs, Stars_Badges, licensing, and exact pricing/free tier parameters.
 4. 📬 **Submit a Pull Request**: Provide a concise summary of why the addition benefits the Text-to-CAD ecosystem.
 
 ---
