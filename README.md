@@ -73,7 +73,7 @@ The following benchmark table tracks leading commercial Text-to-CAD, generative 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source repositories powering autonomous CAD agents, parametric scripting libraries, WASM geometry engines, and academic foundation models. **Sorted in descending order by GitHub Stars_Count.**
+Explore the leading open-source repositories powering autonomous CAD agents, parametric scripting libraries, WASM geometry engines, and academic foundation models. **Sorted in descending order by GitHub_Stars_Count.**
 
 ### 1. 🌟 [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
 * **Description**: The premier open-source multi-platform parametric 3D CAD modeler. Powered by Open CASCADE Technology (OCCT), FreeCAD features an extensive Python API that enables autonomous agents to programmatically build sketch constraints, part bodies, assemblies, and generate production drawings.
